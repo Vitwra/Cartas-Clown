@@ -12,6 +12,8 @@ import Peixes from "./Cartas/Peixes";
 import Sagitario from "./Cartas/Sagitario";
 import Touro from "./Cartas/Touro";
 import Virgem from "./Cartas/Virgem";
+import Adm from "./Adm";
+import { useEffect } from "react";
 
 function App() {
   return (
